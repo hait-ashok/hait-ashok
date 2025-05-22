@@ -22,7 +22,7 @@ I'm Ashok, a Senior DevOps Engineer passionate about automation, cloud, and scal
 ### 🏆 Certifications
 
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
+![AWS Certified AI Practioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practioner-FF9900?style=for-the-badge)
 ![Redhat Ansible Certified](https://img.shields.io/badge/Redhat%20Certified-Ansible%20Specialist-EE0000?style=for-the-badge)
 
 ---
